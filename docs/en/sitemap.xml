@@ -3,64 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/post/game_creation/</loc>
+    <loc>https://jonathanperrine.github.io/post/game_creation/</loc>
     <lastmod>2018-05-18T21:13:32-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/ready-ranger/</loc>
+    <loc>https://jonathanperrine.github.io/post/ready-ranger/</loc>
     <lastmod>2018-05-18T20:25:44-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://jonathanperrine.github.io/</loc>
     <lastmod>2018-05-18T21:13:32-07:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/"
+                href="https://jonathanperrine.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://jonathanperrine.github.io/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://jonathanperrine.github.io/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/categories/"
+                href="https://jonathanperrine.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://jonathanperrine.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://jonathanperrine.github.io/post/</loc>
     <lastmod>2018-05-18T21:13:32-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://jonathanperrine.github.io/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.org/es/tags/"
+                href="https://jonathanperrine.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://jonathanperrine.github.io/tags/"
                 />
   </url>
   

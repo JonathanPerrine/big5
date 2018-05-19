@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Big 5 RPG</title>
-    <link>http://example.org/es/</link>
+    <link>https://jonathanperrine.github.io/es/</link>
     <description>Recent content on Big 5 RPG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/es/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jonathanperrine.github.io/es/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
