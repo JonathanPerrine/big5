@@ -1,7 +1,7 @@
 ---
 title: "Game Creation"
 date: 2018-05-18T21:13:32-07:00
-description: Getting Started with Big 5
+description: Big Issues. The Park. New ugo neFaces. How to get started playing Big 5
 ---
 
 ## Where to begin?

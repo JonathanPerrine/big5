@@ -27,6 +27,8 @@
 				<!-- Main -->
 					<div id="main">
 
+						{{ .TableOfContents }}
+
 						{{ if eq .Site.Params.Posts.featuredpost "true" }}
 						{{ partial "posts/featured.html" (dict "firstpost" $firstPost "siteData" (index .Site.Data .Site.Language.Lang)) }}
 						{{ end }}

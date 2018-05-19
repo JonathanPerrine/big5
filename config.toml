@@ -16,5 +16,3 @@ publishDir = "docs"
 [languages]
 [languages.en]
   languageName = "English"
-[languages.es]
-  languageName = "Español"

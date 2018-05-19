@@ -6,10 +6,19 @@
     <description>Recent content on Big 5 RPG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 May 2018 21:13:32 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 18 May 2018 22:25:44 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome to BIG FIVE</title>
+      <link>/post/welcome/</link>
+      <pubDate>Fri, 18 May 2018 22:25:44 -0700</pubDate>
+      
+      <guid>/post/welcome/</guid>
+      <description>In the late 21st century, the natural resources we once took for granted are under threat. Poachers hunt exotic wildlife as folk-cures and pharmaceutical research drives demand for their bodies. Terrorists, rebels, and freedom fighters alike sell animal parts from ever-dwindling wild populations to fill their war chests. Corporations spend millions in search of billions buried beneath protected wildlife zones. Struggling locals put a quick buck over the survival of their wildlife and land.</description>
+    </item>
     
     <item>
       <title>Game Creation</title>
@@ -19,15 +28,6 @@
       <guid>/post/game_creation/</guid>
       <description>Where to begin? Rangers don’t just fight - They fight for something. For most rangers, this is the Park - A game preserve, national park, or other wilderness area set aside to remain free from resource exploitation, construction, and usually human habitation.
 Big Issues Create two Big Issues (Current or pending threats that could harm the park) and attach aspects to them. Parks are threatened by Big Issues - local unrest (Calls for Modernization,) rebel armies (Steel Monsoon Guerillas,) corrupt officials (Sell-Out Governor Akimbo), greedy corporations (Green Moss Mining Inc) and, of course, poachers (The Hyena, World-Famous Murderer).</description>
-    </item>
-    
-    <item>
-      <title>Welcome to BIG FIVE</title>
-      <link>/post/ready-ranger/</link>
-      <pubDate>Fri, 18 May 2018 20:25:44 -0700</pubDate>
-      
-      <guid>/post/ready-ranger/</guid>
-      <description>In the late 21st century, the natural resources we once took for granted are under threat. Poachers hunt exotic wildlife as folk-cures and pharmaceutical research drives demand for their bodies. Terrorists, rebels, and freedom fighters alike sell animal parts from ever-dwindling wild populations to fill their war chests. Corporations spend millions in search of billions buried beneath protected wildlife zones. Struggling locals put a quick buck over the survival of their wildlife and land.</description>
     </item>
     
   </channel>
