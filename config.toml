@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Big 5 RPG"
 theme = "hugo-theme-massively"
+publishDir = "docs"
 
 
 [params.posts]
