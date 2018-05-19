@@ -1,4 +1,5 @@
-baseURL = "https://jonathanperrine.github.io"
+#baseURL = "https://jonathanperrine.github.io"
+relativeURLs = true
 languageCode = "en-us"
 title = "Big 5 RPG"
 theme = "hugo-theme-massively"
